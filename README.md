@@ -1,4 +1,4 @@
-Assignment 1 for IBM's Tools for Data Science Module 6
+### Assignment 1 for IBM's Tools for Data Science Module 6
 
 This assignment was an exercise on understanding the different techniques on Jupyter by combining all that we have learned thus far in this lesson. It combines knowledges and assignments from Module 1 to Module 5
 
